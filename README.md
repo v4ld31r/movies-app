@@ -18,7 +18,7 @@ $ git clone https://github.com/v4ld31r/movies-app
 
 ### App Configuration
 check if the mongoDB is running
-and npx for nodemon if you are in a Debian O.S. 
+and npm or npx for nodemon
 
 ```
 $ cd movies-app
